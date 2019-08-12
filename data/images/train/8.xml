@@ -1,7 +1,7 @@
 <annotation>
-	<folder>images</folder>
+	<folder>train</folder>
 	<filename>8.jpg</filename>
-	<path>E:\Learning_Resources\Deep_learning\my_data_sets\DATASETS_IMAGE\object_detection_demo\images\8.jpg</path>
+	<path>C:/Users/PC/repos/object_detection_demo/data/images/train/8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,111 +12,111 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>date</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>407</xmin>
-			<ymin>161</ymin>
-			<xmax>529</xmax>
+			<xmin>226</xmin>
+			<ymin>295</ymin>
+			<xmax>266</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>308</xmin>
+			<ymin>352</ymin>
+			<xmax>353</xmax>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>424</ymin>
+			<xmax>285</xmax>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>426</ymin>
+			<xmax>253</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hardhat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>279</ymin>
+			<xmax>243</xmax>
 			<ymax>291</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>491</xmin>
-			<ymin>218</ymin>
-			<xmax>649</xmax>
-			<ymax>346</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>657</xmin>
-			<ymin>244</ymin>
-			<xmax>790</xmax>
-			<ymax>369</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>49</xmin>
-			<ymin>267</ymin>
-			<xmax>210</xmax>
-			<ymax>373</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>date</name>
+		<name>hardhat</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>233</xmin>
-			<ymin>264</ymin>
-			<xmax>403</xmax>
-			<ymax>358</ymax>
+			<ymin>295</ymin>
+			<xmax>248</xmax>
+			<ymax>306</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>date</name>
+		<name>bulldozer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>251</xmin>
-			<ymin>407</ymin>
-			<xmax>372</xmax>
-			<ymax>559</ymax>
+			<xmin>161</xmin>
+			<ymin>163</ymin>
+			<xmax>206</xmax>
+			<ymax>211</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>fig</name>
+		<name>excavator</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>1</ymin>
+			<xmax>800</xmax>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>wall</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>245</xmin>
-			<ymin>92</ymin>
-			<xmax>326</xmax>
-			<ymax>216</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>400</xmin>
-			<ymin>320</ymin>
-			<xmax>476</xmax>
-			<ymax>394</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>hazelnut</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>379</xmin>
-			<ymin>487</ymin>
-			<xmax>459</xmax>
-			<ymax>545</ymax>
+			<xmin>114</xmin>
+			<ymin>162</ymin>
+			<xmax>210</xmax>
+			<ymax>432</ymax>
 		</bndbox>
 	</object>
 </annotation>
